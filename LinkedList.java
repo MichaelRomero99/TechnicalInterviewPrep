@@ -53,6 +53,7 @@ public class LinkedList {
 		list.remove(2);
 		list.remove(3);
 		list.remove(4);
+		list.add(2);
 		list.print();
 	}
 	public class Node{
